@@ -1,10 +1,10 @@
 # Site settings
-title:       Stephane's Tech
-email:       stephane.paul@gmail.com
+title:       Stephane Code's
+email:       stephane@remediumdev.com
 author:      John Otander
-description: "A generalist's view on architecture."
+description: "Just a dad, coding and blogging about it."
 baseurl:     ""
-url:         "http://stephanes.tech"
+url:         "https://stephanecodes.ca"
 date_format: "%b %-d, %Y"
 
 # Google services
@@ -51,7 +51,7 @@ facebook_comments_number: 10
 github_username: stephanep
 bitbucket_username:
 stackoverflow_id:
-twitter_username:
+twitter_username: stephanepaul
 skype_username:
 steam_nickname:
 google_plus_id:
